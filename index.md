@@ -1,5 +1,4 @@
 # Welcome to me trying to set up multiple web pages on github
-<!DOCTYPE html>
 <head>
 <html>
 <body>
