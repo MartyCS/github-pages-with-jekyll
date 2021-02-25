@@ -1,5 +1,5 @@
 # Welcome to me trying to set up multiple web pages on github
-
+theme:minima
 <head>
 <html>
 <body>
