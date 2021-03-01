@@ -3,9 +3,10 @@
 <html>
 <body>
 <p>
-This page has the embed code generated after the refactor on 2/24/21</p>
+This page has the embed code generated after the refactor on 2/24/21. It has been updated on 3/1/21.</p>
 
-<script>
+
+        <script>
   (() => {
     const resizer = document.createElement('script')
     resizer.src = 'https://cdn.jsdelivr.net/npm/iframe-resizer@4.2.11/js/iframeResizer.min.js'
@@ -21,15 +22,16 @@ This page has the embed code generated after the refactor on 2/24/21</p>
     })
   })()
 </script>
-<style>
+        <style>
   #crowdsmart-embed-app {
     background: transparent;
     border: none;
     bottom: 0;
     max-height: 100vh;
+    max-width: 100vw;
     position: fixed;
     right: 0;
     width: 420px;
   }
 </style>
-</head>
+      
