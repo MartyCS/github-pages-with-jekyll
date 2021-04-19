@@ -13,10 +13,24 @@ Last embed revision: 4/19/21. Here is text about this opportunity.</p>
 
 <h3>Problems addressed:</h3>
 <p>
-<- Graphical bugs
-<- User pain points
-<- Score Calculation
+- Graphical bugs </n>
+- User pain points </n>
+- Score Calculation </n>
 </p>
+
+<h3>Solutions provided:</h3>
+<p>
+User testing </n>
+Persona adoption (based on info provided) </n>
+Basic math </n>
+</p>
+
+<h3>To Do:</h3>
+<p>Upload some images and embed them </n>
+Take up additional space </n>
+Create links that open in new windows</n>
+  This should not cause any issues if the original window stays open </n>
+  </p>
 
 
 
