@@ -1,5 +1,21 @@
 # Welcome to an example data room
 <head>
+<script>
+  window.CROWDSMART_TOKEN_USER = {
+    token: '0507_sync'
+  }
+</script>
+<script>
+    window.CROWDSMART_EMBED_CONFIG = {
+      crowdSmartConfig: {
+        font: {
+          href: 'https://fonts.googleapis.com/css2?family=Lobster:wght@300;400;700&display=swap',
+          family: '"Lobster", sans-serif'
+        }
+      }
+    }
+</script>
+</head>
 <html>
 <body>
 <p>
@@ -22,21 +38,22 @@ Last embed revision: 4/19/21. Here is text about this opportunity.</p>
 <p>
 User testing <br>
 Persona adoption (based on info provided) <br>
-Basic math <br>
+API testing <br>
+Manual testing for defects <br>
+Smoke tests, basic functionality, and regression testing <br>
 </p>
 
 <h3>To Do:</h3>
-<p>Upload some images and embed them <br>
-Take up additional space <br>
-Create links that open in new windows<br>
-  This should not cause any issues if the original window stays open <br>
+<p>Browser automation <br>
+Security and pen testing <br>
+In-depth performance testing <br>
   </p>
 
 
 
   <link href="https://www.crowdsmartstage.ai/css/embedStyle.css" rel="stylesheet" type="text/css">
-  <script
-      src="https://www.crowdsmartstage.ai/js/embedScript.js"
-      id="crowdsmart-embed-script"
-      data-embed-url="https://www.crowdsmartstage.ai/embed/evaluation/logohere/38a8b05e-72d3-11eb-82b2-0ad589fedacf/47c28d76-72d3-11eb-bc0f-0ad589fedacf">
-  </script>
+ <script
+     src="https://www.crowdsmartstage.ai/js/embedScript.js"
+     id="crowdsmart-embed-script"
+     data-embed-url="https://www.crowdsmartstage.ai/embed/evaluation/0224/b6da253c-971a-11eb-a741-0ad589fedacf/c7c94cba-971a-11eb-904d-0ad589fedacf">
+ </script>
