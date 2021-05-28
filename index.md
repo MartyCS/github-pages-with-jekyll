@@ -5,16 +5,6 @@
     token: '0507_sync'
   }
 </script>
-<script>
-    window.CROWDSMART_EMBED_CONFIG = {
-      crowdSmartConfig: {
-        font: {
-          href: 'https://fonts.googleapis.com/css2?family=Lobster:wght@300;400;700&display=swap',
-          family: '"Lobster", sans-serif'
-        }
-      }
-    }
-</script>
 </head>
 <html>
 <body>
