@@ -15,28 +15,26 @@ Here is text about this opportunity</p>
 <p>Marty Co</p>
 
 <h3>Key Products and Services:</h3>
-<p>Will review your apps and user test them</p>
+<p>New products for consumer market</p>
 
-<h3>Problems addressed:</h3>
+<h3>Product A</h3>
 <p>
-- Graphical bugs <br>
-- User pain points <br>
-- Score Calculation <br>
+-GFCF<br>
+-No Preservatives<br>
+-Lactose free dairy product<br>
 </p>
 
-<h3>Solutions provided:</h3>
+<h3>Product B</h3>
 <p>
-User testing <br>
-Persona adoption (based on info provided) <br>
-API testing <br>
-Manual testing for defects <br>
-Smoke tests, basic functionality, and regression testing <br>
+-All batches use locally sourced goods<br>
+-50% of profits are put into community programs<br>
 </p>
 
-<h3>To Do:</h3>
-<p>Browser automation <br>
-Security and pen testing <br>
-In-depth performance testing <br>
+<h3>Product C</h3>
+<p>
+-Developed by parents<br>
+-Flavors approved by kids<br>
+-100% of daily recommended 29 essential vitamins and minerals<br>
   </p>
 
 
