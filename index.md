@@ -40,12 +40,13 @@ Here is text about this opportunity</p>
 
 
 
-  <link href="https://stage.crowdsmart.ai/css/embedStyle.css" rel="stylesheet" type="text/css">
+  <link href="https://stage-app.crowdsmart.ai/css/embedStyle.css" rel="stylesheet" type="text/css">
   <script
-      src="https://stage.crowdsmart.ai/js/embedScript.js"
+      src="https://stage-app.crowdsmart.ai/js/embedScript.js"
       id="crowdsmart-embed-script"
-      data-embed-url="https://stage.crowdsmart.ai/embed/evaluation/sprint31/bc82ce16-90f8-11ec-9f53-0669f33159a9/ede58e22-a579-11ec-8019-0669f33159a9">
+      data-embed-url="https://stage-app.crowdsmart.ai/embed/evaluation/org3/191da0e8-9bcf-11ec-a8ad-0669f33159a9/dca3e870-9bd3-11ec-8ed6-0669f33159a9">
   </script>
+  
   
   
   
