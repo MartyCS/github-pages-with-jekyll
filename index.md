@@ -40,12 +40,14 @@ Here is text about this opportunity</p>
 
 
 
-<link href="https://ross-crowdsmart-crowdsmart-valhalla-tveir-j9qw6xxrfj6vr-8443.githubpreview.dev/css/embedStyle.css" rel="stylesheet" type="text/css">
+
+  <link href="https://stage-app.crowdsmart.ai/css/embedStyle.css" rel="stylesheet" type="text/css">
   <script
-      src="https://ross-crowdsmart-crowdsmart-valhalla-tveir-j9qw6xxrfj6vr-8443.githubpreview.dev/js/embedScript.js"
+      src="https://stage-app.crowdsmart.ai/js/embedScript.js"
       id="crowdsmart-embed-script"
-      data-embed-url="https://ross-crowdsmart-crowdsmart-valhalla-tveir-j9qw6xxrfj6vr-8443.githubpreview.dev/embed/evaluation/cybercorp/3a7316a8-f7f8-11ec-8479-06b90baf9d9f/930656da-0159-11ed-97d3-06b90baf9d9f?dialogOpen=true">
+      data-embed-url="https://stage-app.crowdsmart.ai/embed/evaluation/sprint41/aecb14b6-1ff7-11ed-8a19-06b90baf9d9f/c66846ac-1ff7-11ed-9281-06b90baf9d9f">
   </script>
+  
   
   
   
