@@ -2,7 +2,7 @@
 <head>
 <script>
   window.CROWDSMART_TOKEN_USER = {
-    token: '0507_sync'
+    token: 'new_testing'
   }
 </script>
 </head>
