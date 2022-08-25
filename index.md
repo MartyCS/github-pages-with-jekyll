@@ -13,7 +13,8 @@
 
 <p>A new line of cereals inspired by trail mix.  Made with whole grains, nuts, dried fruit, and bits of chocolate, these cereals are powered with 10g of plant protein per serving, vegan, gluten free and 100% from artificial ingredients.  It stays crunchy when you pour milk over it.  You can also enjoy it over yogurt or straight from the box.  Flavors include; honey cranberry walnut with white chocolate, blueberry almond dark chocolate, peanut butter dried banana chocolate.</p>
 
-/*<h3>Key Products and Services:</h3>
+<! --
+<h3>Key Products and Services:</h3>
 <p>New products for consumer market</p>
 
 <h3>Product A</h3>
@@ -35,7 +36,7 @@
 -Flavors approved by kids<br>
 -100% of daily recommended 29 essential vitamins and minerals<br>
   </p>
-*/
+-->
 
 
 
@@ -45,10 +46,3 @@
       id="crowdsmart-embed-script"
       data-embed-url="https://stage-app.crowdsmart.ai/embed/evaluation/sprint41/aecb14b6-1ff7-11ed-8a19-06b90baf9d9f/c66846ac-1ff7-11ed-9281-06b90baf9d9f">
   </script>
-  
-  
-  
-  
-  
-  
-  
