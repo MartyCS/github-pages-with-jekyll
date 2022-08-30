@@ -2,15 +2,9 @@
 <head>
 <script>
   window.CROWDSMART_TOKEN_USER = {
-    token: 'new_testing2'
+    token: 'new_testing1'
   }
 </script>
-<script>
-   window.CROWDSMART_EMBED_CONFIG = {
-     crowdSmartConfig: {
-       evaluation: {
-         showSuccess: true
-       }
 </head>
 <html>
 <body>
