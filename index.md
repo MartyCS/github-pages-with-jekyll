@@ -13,7 +13,7 @@
   start: 'Start',
 },
       evaluation: {
-        showSuccess: true
+        showSuccess: false
       },
     }
   }
