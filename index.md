@@ -6,6 +6,12 @@
   },
   window.CROWDSMART_EMBED_CONFIG = {
     crowdSmartConfig: {
+      cta: {
+  completed: 'Revisit',
+  continue: 'Continue',
+  loggedOut: 'Loading',
+  start: 'Start',
+},
       evaluation: {
         showSuccess: true
       },
