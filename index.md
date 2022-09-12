@@ -22,7 +22,7 @@
 <script>
 (() => {
   window.addEventListener('message', event => {
-    if (event.data === 'EVAL_SUCCESS ') {
+    if (event.data === 'EVAL_SUCCESS') {
 window.alert("done");
     }
   })
