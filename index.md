@@ -2,7 +2,7 @@
 <head>
 <script>
   window.CROWDSMART_TOKEN_USER = {
-    token: 'new_testing5'
+    token: 'new_testing6'
   },
   window.CROWDSMART_EMBED_CONFIG = {
     crowdSmartConfig: {
@@ -18,6 +18,15 @@
     }
   }
 
+</script>
+<script>
+(() => {
+  window.addEventListener('message', event => {
+    if (event.data === 'EVAL_COMPLETED') {
+window.alert("done");
+    }
+  })
+})();
 </script>
 </head>
 <html>
