@@ -34,12 +34,12 @@ window.alert("done!");
 <p></p>
 
 
-<p>A new line of cereals inspired by trail mix.  Made with whole grains, nuts, dried fruit, and bits of chocolate, these cereals<br>
-are powered with 10g of plant protein per serving, vegan, gluten free and 100% from artificial ingredients.  It stays crunchy <br>
-when you pour milk over it.  You can also enjoy it over yogurt or straight from the box.  Flavors include; honey cranberry walnut<br>
-with white chocolate, blueberry almond dark chocolate, peanut butter dried banana chocolate.</p>
+<p>Everyone wants to feel good. Feeling energetic, positive, and physically well every day is one of the keys to a happy life. There isn’t a person on this planet who wants poor health. Yet many factors in the modern world cause a decline in vitality — particularly environmental toxins, poor diet, stress, and lifestyle.<br><br>
 
-<img src="https://res.cloudinary.com/crowdsmart/image/upload/v1661468359/stage/organizations/sprint42/projects/48ca4b74-247e-11ed-a6f2-06b90baf9d9f/assets/zgyvh9iqpt4ovebfvhv8.jpg" alt="Cereal" width="204.48" height="270.72">
+The ultimate key to health lies at the heart of Dr. Group, DC’s philosophy and the concept that led him to build Global Healing from the ground up — teach your body to heal itself.</p>
+
+<img src="https://cdn.shopify.com/s/files/1/0539/5621/4984/files/seal-268_80x.png?v=1617207752" alt="Cereal" width="204.48" height="270.72">
+
 
 
 
@@ -48,5 +48,5 @@ with white chocolate, blueberry almond dark chocolate, peanut butter dried banan
   <script
       src="https://stage-app.crowdsmart.ai/js/embedScript.js"
       id="crowdsmart-embed-script"
-      data-embed-url="https://stage-app.crowdsmart.ai/embed/evaluation/sprint42/82f323fc-23bb-11ed-b36f-06b90baf9d9f/32b1261c-24cb-11ed-9b23-06b90baf9d9f">
+      data-embed-url="https://stage-app.crowdsmart.ai/embed/evaluation/agilecity/f0c5fece-94fd-11ec-90b3-0669f33159a9/9d330aaa-45ff-11ed-89ef-06b90baf9d9f">
   </script>
