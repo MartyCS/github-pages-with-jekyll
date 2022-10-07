@@ -1,4 +1,4 @@
-# Testing a New Product Idea
+# Brand Feedback
 <head>
 <script>
   window.CROWDSMART_TOKEN_USER = {
@@ -38,7 +38,7 @@ window.alert("done!");
 
 The ultimate key to health lies at the heart of Dr. Group, DC’s philosophy and the concept that led him to build Global Healing from the ground up — teach your body to heal itself.</p>
 
-<img src="https://cdn.shopify.com/s/files/1/0539/5621/4984/files/seal-268_80x.png?v=1617207752" alt="Cereal" width="204.48" height="270.72">
+<img src="https://cdn.shopify.com/s/files/1/0539/5621/4984/files/seal-268_80x.png?v=1617207752" alt="Cereal" width="100" height="100">
 
 
 
