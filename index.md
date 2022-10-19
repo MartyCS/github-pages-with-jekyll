@@ -2,7 +2,7 @@
 <head>
 <script>
   window.CROWDSMART_TOKEN_USER = {
-    token: 'new_testing6'
+    token: 'new_testing7'
   },
   window.CROWDSMART_EMBED_CONFIG = {
     crowdSmartConfig: {
@@ -44,9 +44,10 @@ The ultimate key to health lies at the heart of Dr. Group, DC’s philosophy and
 
 
 
+
   <link href="https://stage-app.crowdsmart.ai/css/embedStyle.css" rel="stylesheet" type="text/css">
   <script
       src="https://stage-app.crowdsmart.ai/js/embedScript.js"
       id="crowdsmart-embed-script"
-      data-embed-url="https://stage-app.crowdsmart.ai/embed/evaluation/agilecity/456e1a66-468c-11ed-b50d-06b90baf9d9f/8e831422-468c-11ed-b7c3-06b90baf9d9f">
+      data-embed-url="https://stage-app.crowdsmart.ai/embed/evaluation/agilecity/456e1a66-468c-11ed-b50d-06b90baf9d9f/83bf302a-468c-11ed-8e78-06b90baf9d9f">
   </script>
